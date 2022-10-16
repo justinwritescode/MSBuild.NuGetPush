@@ -1,0 +1,10 @@
+site_name: JustinWritesCode Documentation
+site_description: JustinWritesCode Documentation
+site_url: https://justinwritescode.com
+site_author: "Justin Chase"
+repo_url: https://github.com/justinwritescode/MSBuild.NuGetPush
+repo_name: justinwritescode/common
+edit_uri: "tree/main/docs"
+docs_dir: docs
+nav:
+  - MSBuild.NuGetPush: index.md
